@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDBLibrary", "GDBLibrary\GDBLibrary.csproj", "{E14ECE24-3768-4BE7-9330-4533AFB38F7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paint", "Paint\Paint.csproj", "{D1B80EDE-6E48-4010-AE04-9849652A82DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E14ECE24-3768-4BE7-9330-4533AFB38F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E14ECE24-3768-4BE7-9330-4533AFB38F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E14ECE24-3768-4BE7-9330-4533AFB38F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E14ECE24-3768-4BE7-9330-4533AFB38F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1B80EDE-6E48-4010-AE04-9849652A82DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B80EDE-6E48-4010-AE04-9849652A82DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B80EDE-6E48-4010-AE04-9849652A82DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B80EDE-6E48-4010-AE04-9849652A82DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0C7C58A-ABC3-4EBA-B952-34F9CDF451B1}
+	EndGlobalSection
+EndGlobal

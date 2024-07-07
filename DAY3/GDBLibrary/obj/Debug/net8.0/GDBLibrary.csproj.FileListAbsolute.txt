@@ -1,0 +1,11 @@
+E:\dotnetlab\DAY3\GDBLibrary\bin\Debug\net8.0\GDBLibrary.deps.json
+E:\dotnetlab\DAY3\GDBLibrary\bin\Debug\net8.0\GDBLibrary.dll
+E:\dotnetlab\DAY3\GDBLibrary\bin\Debug\net8.0\GDBLibrary.pdb
+E:\dotnetlab\DAY3\GDBLibrary\obj\Debug\net8.0\GDBLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnetlab\DAY3\GDBLibrary\obj\Debug\net8.0\GDBLibrary.AssemblyInfoInputs.cache
+E:\dotnetlab\DAY3\GDBLibrary\obj\Debug\net8.0\GDBLibrary.AssemblyInfo.cs
+E:\dotnetlab\DAY3\GDBLibrary\obj\Debug\net8.0\GDBLibrary.csproj.CoreCompileInputs.cache
+E:\dotnetlab\DAY3\GDBLibrary\obj\Debug\net8.0\GDBLibrary.dll
+E:\dotnetlab\DAY3\GDBLibrary\obj\Debug\net8.0\refint\GDBLibrary.dll
+E:\dotnetlab\DAY3\GDBLibrary\obj\Debug\net8.0\GDBLibrary.pdb
+E:\dotnetlab\DAY3\GDBLibrary\obj\Debug\net8.0\ref\GDBLibrary.dll
